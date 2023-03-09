@@ -7,7 +7,7 @@
 📚 Fazem parte de minha rotina de estudos: React Native, Node.js,TypeScript e inglês.
 <br>
 💖 Codar, estudar, ciclismo e entusiata musical.
-<bR >
+<br >
 📧 elton.martins@live.com
 
 <br>
