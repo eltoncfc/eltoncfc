@@ -1,15 +1,14 @@
 ### Olá, Bem vindo ao meu Github ✋
 <br>
-🧑🏾‍💻 Sou Desenvolvedor React & React Native
+🧑🏾‍💻 Sou Desenvolvedor React & React Native.
 <br>
-🏫 Formado em Analise e Desenvolvimento de Sistemas pela faculdade Impacta
+🏫 Formado em Analise e Desenvolvimento de Sistemas pela faculdade Impacta.
 <br>
 📚 Fazem parte de minha rotina de estudos: React Native, Node.js,TypeScript e inglês.
 <br>
-💖 Codar, estudar, ciclismo e entusiata musical.
+💖 Codar, estudar, ciclismo e entusiasta musical.
 <br >
 📧 elton.martins@live.com
-
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fromhellton/)
