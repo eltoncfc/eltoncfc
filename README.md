@@ -20,7 +20,7 @@
 
 
 ![Elton's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltoncfc&show_icons=true&theme=merko)
-
+ <br>
 
 ## Skills
 
@@ -42,5 +42,7 @@ src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=r
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
