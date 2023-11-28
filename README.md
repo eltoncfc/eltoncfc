@@ -1,6 +1,6 @@
 ### Olá, Bem vindo ao meu Github ✋
 <br>
-🧑🏾‍💻 Sou Desenvolvedor React & React Native.
+🧑🏾‍💻 Sou Desenvolvedor Front-end.
 <br>
 🏫 Formado em Analise e Desenvolvimento de Sistemas pela faculdade Impacta.
 <br>
