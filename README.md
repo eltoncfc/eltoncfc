@@ -1,11 +1,9 @@
 ### Olá, Bem vindo ao meu Github ✋
 <br>
-🧑🏾‍💻 Sou Desenvolvedor Front-end.
+🧑🏾‍💻 Sou Desenvolvedor Pleno Front-end/Mobile - React & React Native
 <br>
 🏫 Formado em Analise e Desenvolvimento de Sistemas pela faculdade Impacta.
-<br>
-📚 Fazem parte de minha rotina de estudos: React Native, Node.js,TypeScript e inglês.
-<br>
+
 💖 Codar, estudar, ciclismo e entusiasta musical.
 <br >
 📧 elton.martins@live.com
